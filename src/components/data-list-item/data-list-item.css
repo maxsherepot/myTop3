@@ -1,0 +1,26 @@
+
+.bikeTitleColumn .my-btn {
+    font-size: 1rem;
+    background-color: #2E2E2E;
+}
+
+.bikeTitleColumn .my-btn:before {
+    font-size: 1rem;
+    background-color: #2E2E2E;
+    border-radius: 50px;
+}
+
+
+@media screen and (max-width: 460px) {
+    .bikeTitle {
+        font-size: .5rem;
+    }
+
+    .bikeTitleColumn .my-btn {
+        font-size: .1rem;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+};

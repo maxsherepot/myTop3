@@ -1,0 +1,52 @@
+
+.carousel-inner .position-absolute {
+  top: 30%;
+}
+
+.carousel-caption p {
+  font-size: 1.4rem;
+}
+
+
+@media screen and (max-width: 880px) {
+  
+  .carousel-inner .position-absolute {
+    top: 20%;
+  }
+
+  .carousel-caption h1 {
+    font-size: 1.1rem;
+  }
+
+  .carousel-caption p {
+    font-size: .8rem;
+  }
+
+  .carousel .carousel-indicators li {
+    width: .4rem;
+    height: .4rem;
+  } 
+}
+
+
+@media screen and (max-width: 468px) {
+ 
+  .carousel-inner .position-absolute {
+    top: 15%;
+  }
+
+  .carousel-caption h1 {
+    font-size: .7rem;
+  }
+
+  .carousel-caption p {
+    font-size: .4rem;
+  }
+
+  .carousel .carousel-indicators li {
+    width: .2rem;
+    height: .2rem;
+  }
+};
+
+

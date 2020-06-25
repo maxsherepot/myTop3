@@ -1,0 +1,67 @@
+
+:root {
+    --special-color:#42ffef;
+    --special-color-2:rgb(189, 45, 255);
+    --btn-bg: linear-gradient(90deg, var(--special-color), var(--special-color-2), var(--special-color));
+}
+
+nav img {
+    max-width: 100px;
+}
+
+.my-btn {
+    border: none;
+    font-size: 1.4rem;
+    position: relative;
+    border-radius: 50px;
+    color: var(--special-color); 
+    background-size: 300%;
+    z-index: 1;
+}
+
+.my-btn:hover {
+    animation: blur 6s linear infinite;
+    color: black;
+}
+
+@keyframes blur {
+    0%{background-position: 0%;}
+    100%{background-position: 400%;}
+}
+
+.my-btn:before{
+    content: "";
+    position: absolute;
+    top: -2px;
+    bottom: -2px;
+    left: -2px;
+    right: -2px;
+    background: var(--btn-bg);
+    background-size: 400%;
+    border-radius: 50%;
+    z-index: -1;
+    opacity: 0;
+    transition: .4s;
+}
+
+.my-btn:hover:before{
+    opacity: 1;
+    animation: blur 8s linear infinite;
+    filter: blur(10px);
+}
+
+
+@media screen and (max-width: 600px) {
+    
+    .my-btn {
+        font-size: .6rem;
+    }
+
+    nav img {
+        max-width: 40px;
+    }
+    
+    .find-me {
+        font-size: .6rem;
+    }
+};

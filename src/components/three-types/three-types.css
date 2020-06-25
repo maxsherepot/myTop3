@@ -1,0 +1,25 @@
+
+:root {
+    --special-color:#42ffef;
+}
+
+.roadBikes span, .downhillBikes span, .gravelBikes span {
+    font-size: 1.4rem;
+    color: var(--special-color);
+}
+
+.view {
+    cursor: pointer;
+    overflow: inherit;
+}
+
+
+@media screen and (max-width: 460px) {
+    .roadBikes span, .downhillBikes span, .gravelBikes span {
+        font-size: .7rem;
+    }
+
+    .threeTypes h3 {
+        font-size: 1rem;
+    }
+};

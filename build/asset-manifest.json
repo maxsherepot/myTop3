@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2dc785d5.chunk.css",
+    "main.js": "/static/js/main.104ef300.chunk.js",
+    "main.js.map": "/static/js/main.104ef300.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.febaad15.js",
+    "runtime-main.js.map": "/static/js/runtime-main.febaad15.js.map",
+    "static/js/2.d4974376.chunk.js": "/static/js/2.d4974376.chunk.js",
+    "static/js/2.d4974376.chunk.js.map": "/static/js/2.d4974376.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.40154f57fa9f9037d1b4f3e3eb189b62.js": "/precache-manifest.40154f57fa9f9037d1b4f3e3eb189b62.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2dc785d5.chunk.css.map": "/static/css/main.2dc785d5.chunk.css.map",
+    "static/js/2.d4974376.chunk.js.LICENSE.txt": "/static/js/2.d4974376.chunk.js.LICENSE.txt",
+    "static/media/GIANT ANTHEM 29 3.jpg": "/static/media/GIANT ANTHEM 29 3.6a5312df.jpg",
+    "static/media/GIANT DEFY ADVANCED PRO 2019.jpg": "/static/media/GIANT DEFY ADVANCED PRO 2019.5311266d.jpg",
+    "static/media/GIANT TRANCE ADVANCED PRO 29 2019.jpg": "/static/media/GIANT TRANCE ADVANCED PRO 29 2019.c6de8b17.jpg",
+    "static/media/LIV ENVILIV ADVANCED.jpg": "/static/media/LIV ENVILIV ADVANCED.35b3da73.jpg",
+    "static/media/MARIN FOUR CORNERS 2020.jpg": "/static/media/MARIN FOUR CORNERS 2020.136b3a8c.jpg",
+    "static/media/MERIDA 2020 ONE-SIXTY 7000.jpg": "/static/media/MERIDA 2020 ONE-SIXTY 7000.2e991779.jpg",
+    "static/media/MERIDA 2020 REACTO DISC.jpg": "/static/media/MERIDA 2020 REACTO DISC.1f721f4a.jpg",
+    "static/media/MERIDA MISSION CX 8000 2019.jpg": "/static/media/MERIDA MISSION CX 8000 2019.31b1e943.jpg",
+    "static/media/PRIDE ROCX DIRT TOUR 2020.jpg": "/static/media/PRIDE ROCX DIRT TOUR 2020.c2197fb0.jpg",
+    "static/media/error-image.png": "/static/media/error-image.3e73808b.png",
+    "static/media/logo.png": "/static/media/logo.c4511a23.png",
+    "static/media/picture1.jpg": "/static/media/picture1.1c638e05.jpg",
+    "static/media/picture2.jpg": "/static/media/picture2.5042509b.jpg",
+    "static/media/picture3.jpg": "/static/media/picture3.d539a536.jpg",
+    "static/media/picture4.jpg": "/static/media/picture4.748d09ce.jpg",
+    "static/media/picture5.jpg": "/static/media/picture5.7b2c6a89.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.febaad15.js",
+    "static/js/2.d4974376.chunk.js",
+    "static/css/main.2dc785d5.chunk.css",
+    "static/js/main.104ef300.chunk.js"
+  ]
+}
